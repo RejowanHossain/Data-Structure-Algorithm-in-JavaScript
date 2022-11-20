@@ -1,7 +1,7 @@
 
-let arr = [1,5,45,85,202,145,25]
+let arr = [1, 50, 45, 85, 202, 145, 25]
 
-let target = 202
+let target = 145
 
 function linearSearch(arr, target){
     for( let i = 0; i < arr.length; i++ ){
